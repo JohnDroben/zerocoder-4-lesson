@@ -1,6 +1,7 @@
-def calc(a, b):
-    print(a + b)
-    print(a - b)
-    print(a * b)
-    print(a/b)
+def calc(d, e):
+    s = d + e
+    return s
+
+
+
 
